@@ -1,0 +1,13 @@
+.app{
+  padding: 20px;
+  background:slateblue ;
+  height: 100vh;
+}
+.todos{
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+}
+.heading{
+  color: white;
+}
